@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Resistance
+## Notes: Shows enemys resistance
+## Version: 0.21
+## Author: thekk
+## eMail: thekk@gmx.de
+## DefaultState: enabled
+res.xml
+res.lua
