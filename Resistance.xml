@@ -3,7 +3,7 @@
 	<!-- $Id$ -->
 	
 	<!-- Scripts -->
-	<Script file="res.lua"/>
+	<Script file="Resistance.lua"/>
 
 	<!-- My AddOn Frames -->
 	<Frame name="ResFrame" movable="false">

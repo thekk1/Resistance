@@ -5,5 +5,5 @@
 ## Author: thekk
 ## eMail: thekk@gmx.de
 ## DefaultState: enabled
-res.xml
-res.lua
+Resistance.xml
+Resistance.lua
