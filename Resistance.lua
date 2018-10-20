@@ -46,6 +46,7 @@ end
 
 local function Update()
 	if pfUI.uf.target then parent = pfUI.uf.target
+	elseif XPerl_Target then parent = XPerl_Target
 	else parent = TargetFrame end
 	
 	local width = parent:GetWidth()
